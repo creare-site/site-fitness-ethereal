@@ -1,16 +1,16 @@
-# [Site Fotografie Ethereal](https://site-fitness-ethereal.websitemarket.ro/)
+# [Site Fitness Ethereal](https://site-fitness-ethereal.websitemarket.ro/)
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-![Site Fotografie Ethereal](https://raw.githubusercontent.com/creare-site/static/master/produse/site-fitness-ethereal-intro.gif)
+![Site Fitness Ethereal](https://raw.githubusercontent.com/creare-site/static/master/produse/site-fitness-ethereal-intro.gif)
 
 <br />
 
 ## Informatii produs
 
-- Site de prezentare - Ethereal
+- Site de prezentare sala fitness - Ethereal
 - Live [DEMO](https://site-fitness-ethereal.websitemarket.ro)
  
 <br />
