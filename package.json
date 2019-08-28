@@ -1,7 +1,7 @@
 {
     "name": "jamstack-ethereal",
     "version": "0.0.1",
-    "description": "JAMstack - Blazing fast app with ethereal design by Pixelarity",
+    "description": "JAMstack - Blazing fast app with Ethereal design by Pixelarity",
     "main": "Gruntfile.js",
     "devDependencies": {
         "autoprefixer": "^6.3.6",

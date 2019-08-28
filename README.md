@@ -1,4 +1,4 @@
-# [JAMstack ethereal](https://appseed.us/apps/jamstack/jamstack-ethereal-pixelarity)
+# [JAMstack Ethereal](https://appseed.us/apps/jamstack/jamstack-ethereal-pixelarity)
 
 Blazing fast application coded by AppSeed in [JAMstack](https://jamstack.org/) pattern on top of ethereal Pixelarity design.
 
